@@ -4,10 +4,6 @@
 
 Overview of the analysis: Purpose of the analysis was to build a tool to help select applicants for funding who will have the best chance of success based on many historical factors that are used to measure success. Used features from the provided data to create classifier to predict whether applicatns will be successful if funded by the company.
 
-Results: Using bulleted lists and images to support your answers, address the following questions:
-
-Data Preprocessing
-
 What variable(s) are the target(s) for your model? The target is whether the applicant was successful with the funding received.
 
 What variable(s) are the features for your model? The features are all the other columns. 
